@@ -7,11 +7,7 @@ request.setCharacterEncoding("utf-8");
 //String seq=request.getParameter("c");
 %> 
 
-<%
-//NoticeDao dao=new NoticeDao();
-//Notice n=dao.getNotice(seq);
-
-%>  
+ 
 <!DOCTYPE html>
 <html>
 <head>
