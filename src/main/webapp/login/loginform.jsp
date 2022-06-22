@@ -29,6 +29,7 @@ function goJoinFrom() {
 }
 </script>
 
+
 <div id="wrap">
 	<form action="loginproc.do" name="logininfo" method="post" onsubmit="return checkValue()">
 		<img src="../img/welcome.jpg" id="wel_img" />

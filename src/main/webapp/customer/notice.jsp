@@ -28,7 +28,8 @@ function clearVal() {
 </c:if>
 
 
-${uid }님 해위~
+
+${uid }님 해위
 <hr />
 <form action="notice.do" method="get">
 	<select name="f">
