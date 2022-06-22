@@ -15,6 +15,7 @@ request.setCharacterEncoding("utf-8");
 session.invalidate();
 response.sendRedirect("loginform.jsp");
 
+
 %>
 </body>
 </html>

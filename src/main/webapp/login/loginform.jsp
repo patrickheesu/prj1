@@ -70,5 +70,6 @@ function goJoinFrom() {
  onsubmit 이벤트는 input 태그의 데이터를 서버에 전송하기 전 동작을 지정하며,
  return false; 를 함으로써 이벤트 처리를 종료하고 action의 처리를 방지하게 된다. -->
 
+
 </body>
 </html>
